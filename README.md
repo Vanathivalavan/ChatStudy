@@ -145,10 +145,10 @@ client.close()
 ```
 
 ## Output:
- #Server
+ Server
    <img width="620" height="218" alt="image" src="https://github.com/user-attachments/assets/b1081fa2-829b-4789-bfa7-6b0f9d98bcc1" />
 
- #Client
+ Client
    <img width="627" height="222" alt="image" src="https://github.com/user-attachments/assets/75b53305-d78e-4dc4-a8de-dbe821759377" />
 
 ## Result:
